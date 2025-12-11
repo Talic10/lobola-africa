@@ -35,6 +35,6 @@ Miscommunication and missing records create tension. Lobola Africa standardizes 
 ## Contact
 - **Name:** <Talic>
 - **Location:** Gauteng, South Africa (open to remote)
-- **LinkedIn:** <your link>
+- **LinkedIn:** <https://www.linkedin.com/in/mcpee-b-784855a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
 - **Email:** <mcpeetalicbhosha@gmail.com>
 - **Roles:** Full‑stack / Backend / Platform Engineering
