@@ -5,7 +5,7 @@ A secure, culturally respectful platform for tracking and finalizing lobola nego
 ## Live links
 - 🌍 Website: https://lobola.africa
 - 📱 Android: Closed testing (public link coming soon)
-- 🎥 Demo video: <link to 2–3 min walkthrough>
+  [![Website](https://img.shields.io/website?url=https%3A%2F%2Flobola.africa)](https://lobola.africa)
 
 ## Highlights
 - ✅ Full-stack build: Auth, roles, workflow engine, audit trails, PDF exports
